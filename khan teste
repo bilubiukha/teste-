@@ -199,7 +199,7 @@ loadCss('https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css');
 
 // Carrega o Toastify e inicia as funcionalidades
 loadScript('https://cdn.jsdelivr.net/npm/toastify-js').then(async () => {
-    sendToast("🏢 Innovation Khan injetado com sucesso!", 5000, 'bottom');
+    sendToast("🏢 semen injetado com sucesso!", 5000, 'bottom');
     spoofQuestion();
     console.clear();
 
